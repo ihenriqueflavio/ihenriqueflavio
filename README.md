@@ -4,9 +4,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="flavio | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="flavio | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="flavio | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="flavio | LinkedIn" width="56px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="flavio | Twitter" width="56px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="flavio | Instagram" width="56px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
 <br />
@@ -25,6 +25,9 @@
 <img align="left" alt="CSS3" width="56px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Java" width="56px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <img align="left" alt="elastickstack" width="56px" src="https://cdn.worldvectorlogo.com/logos/elastic-stack.svg" />
+<img align="left" alt="metabase" width="56px" src="https://cdn.worldvectorlogo.com/logos/metabase.svg" />
+<img align="left" alt="trello" width="56px" src="https://cdn.worldvectorlogo.com/logos/trello.svg" />
+
 
 
 
