@@ -38,5 +38,5 @@
 
 
 [Twitter]: https://twitter.com/henrique4flavio
-[Linkedin]: https://www.linkedin.com/in/flavio-h-junior
+[Linkedin]: https://br.linkedin.com/in/fl%C3%A1vio-henrique-de-almeida-junior-80a3b995
 [Instagram]: https://www.instagram.com/henrique4flavio/
