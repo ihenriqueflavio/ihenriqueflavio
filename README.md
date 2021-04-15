@@ -30,6 +30,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <img align="left" alt="elastickstack" width="56px" src="https://cdn.worldvectorlogo.com/logos/elastic-stack.svg" />
 <img align="left" alt="metabase" width="56px" src="https://cdn.worldvectorlogo.com/logos/metabase.svg" />
 <img align="left" alt="trello" width="56px" src="https://cdn.worldvectorlogo.com/logos/trello.svg" />
+<img align="left" alt="gitlab" width="56px" src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" />
 <img align="left" alt="powerbi" width="56px" src="https://www.pikpng.com/pngl/m/8-80682_we-joined-microsofts-power-bi-red-carpet-program.png" />
 
 
