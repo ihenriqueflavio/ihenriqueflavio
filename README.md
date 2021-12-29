@@ -42,6 +42,6 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <br />
 
 
-[Twitter]: https://twitter.com/henrique4flavio
+[Twitter]: https://twitter.com/ihenriqueflavio
 [Linkedin]: https://www.linkedin.com/in/flavio-h-junior
-[Instagram]: https://www.instagram.com/henrique4flavio/
+[Instagram]: https://www.instagram.com/ihenriqueflavio/
