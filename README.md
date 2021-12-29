@@ -30,13 +30,13 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <img align="left" alt="Java" width="56px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <img align="left" alt="elastickstack" width="56px" src="https://cdn.worldvectorlogo.com/logos/elastic-stack.svg" />
 <img align="left" alt="metabase" width="56px" src="https://cdn.worldvectorlogo.com/logos/metabase.svg" />
+<img align="left" alt="Data Studio" width="56px" src="https://cdn.worldvectorlogo.com/logos/google-data-studio.svg" />
 <img align="left" alt="trello" width="56px" src="https://cdn.worldvectorlogo.com/logos/trello.svg" />
+<img align="left" alt="discord" width="56px" src="https://cdn.worldvectorlogo.com/logos/discord.svg" />
+<img align="left" alt="jira" width="56px" src="https://cdn.worldvectorlogo.com/logos/jira-3.svg" />
 <img align="left" alt="gitlab" width="56px" src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" />
 <img align="left" alt="powerbi" width="56px" src="https://www.pikpng.com/pngl/m/8-80682_we-joined-microsofts-power-bi-red-carpet-program.png" />
-
-
-
-
+<img align="left" alt="arcgis" width="56px" src="https://www.pikpng.com/pngl/m/495-4957060_esri-arcgis-logo-clipart.png" />
 
 <br />
 <br />
