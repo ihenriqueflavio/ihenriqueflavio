@@ -24,7 +24,6 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <img align="left" alt="MongoDB" width="56px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="56px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="56px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Bitbucket" width="56px" src="https://cdn.worldvectorlogo.com/logos/bitbucket.svg" />
 <img align="left" alt="php" width="56px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/php/php.png" />
 <img align="left" alt="HTML5" width="56px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="56px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -38,6 +37,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <img align="left" alt="gitlab" width="56px" src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" />
 <img align="left" alt="powerbi" width="56px" src="https://www.pikpng.com/pngl/m/8-80682_we-joined-microsofts-power-bi-red-carpet-program.png" />
 <img align="left" alt="arcgis" width="56px" src="https://www.pikpng.com/pngl/m/495-4957060_esri-arcgis-logo-clipart.png" />
+<img align="left" alt="Bitbucket" width="56px" src="https://cdn.worldvectorlogo.com/logos/bitbucket.svg" />
 
 <br />
 <br />
