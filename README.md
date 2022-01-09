@@ -11,7 +11,7 @@
 
 <br />
 
-### Languages and Tools:
+### These are some of the technologies and tools that I work with:
 
 <img align="left" alt="Visual Studio Code" width="56px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="JavaScript" width="56px" 
@@ -24,6 +24,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <img align="left" alt="MongoDB" width="56px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="56px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="56px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Bitbucket" width="56px" src="https://cdn.worldvectorlogo.com/logos/bitbucket.svg" />
 <img align="left" alt="php" width="56px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/php/php.png" />
 <img align="left" alt="HTML5" width="56px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="56px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -43,5 +44,5 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 
 [Twitter]: https://twitter.com/ihenriqueflavio
-[Linkedin]: https://www.linkedin.com/in/flavio-h-junior
+[Linkedin]: https://www.linkedin.com/in/ihenriqueflavio
 [Instagram]: https://www.instagram.com/ihenriqueflavio/
