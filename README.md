@@ -5,8 +5,6 @@
 ### Connect with me:
 
 [<img align="left" alt="flavio | LinkedIn" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="flavio | Twitter" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="flavio | Instagram" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
 <br />
@@ -40,8 +38,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 <br />
 <br />
+![](https://komarev.com/ghpvc/?username=ihenriqueflavio&style=flat-square)
 
 
-[Twitter]: https://twitter.com/ihenriqueflavio
 [Linkedin]: https://www.linkedin.com/in/ihenriqueflavio
-[Instagram]: https://www.instagram.com/ihenriqueflavio/
