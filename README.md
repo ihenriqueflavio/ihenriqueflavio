@@ -1,6 +1,10 @@
-<img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=ihenriqueflavio&show_icons=true&hide_border=true" />
-
-<br />
+<table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihenriqueflavio&hide=html&layout=compact&theme=buefy" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=ihenriqueflavio&theme=buefy"/></td>
+    </tr>   
+</table>
+</center> 
 
 ### Connect with me:
 
@@ -38,7 +42,6 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 <br />
 <br />
-![](https://komarev.com/ghpvc/?username=ihenriqueflavio&style=flat-square)
 
 
 [Linkedin]: https://www.linkedin.com/in/ihenriqueflavio
