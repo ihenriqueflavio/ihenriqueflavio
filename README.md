@@ -33,7 +33,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <img align="left" alt="CSS3" width="56px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Java" width="56px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <img align="left" alt="elastickstack" width="56px" src="https://cdn.worldvectorlogo.com/logos/elastic-stack.svg" />
-<img align="left" alt="metabase" width="56px" src="https://cdn.worldvectorlogo.com/logos/metabase.svg" />
+<img align="left" alt="powerbi" width="56px" src="https://cdn.worldvectorlogo.com/logos/powerbi.svg" />
 <img align="left" alt="Data Studio" width="56px" src="https://cdn.worldvectorlogo.com/logos/google-data-studio.svg" />
 <img align="left" alt="trello" width="56px" src="https://cdn.worldvectorlogo.com/logos/trello.svg" />
 <img align="left" alt="docker" width="56px" src="https://cdn.worldvectorlogo.com/logos/docker.svg" />
@@ -41,7 +41,6 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <img align="left" alt="jira" width="56px" src="https://cdn.worldvectorlogo.com/logos/jira-3.svg" />
 <img align="left" alt="gitlab" width="56px" src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" />
 <img align="left" alt="Bitbucket" width="56px" src="https://cdn.worldvectorlogo.com/logos/bitbucket.svg" />
-<img align="left" alt="powerbi" width="56px" src="https://www.pikpng.com/pngl/m/8-80682_we-joined-microsofts-power-bi-red-carpet-program.png" />
 
 <br />
 <br />
