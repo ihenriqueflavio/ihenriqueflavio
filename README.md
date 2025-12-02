@@ -1,12 +1,5 @@
 
 ![](https://komarev.com/ghpvc/?username=ihenriqueflavio&style=flat-square)
-<table>
-    <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihenriqueflavio&hide=html&layout=compact&theme=buefy" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=ihenriqueflavio&theme=buefy"/></td>
-    </tr>   
-</table>
-</center> 
 
 ### Connect with me:
 
